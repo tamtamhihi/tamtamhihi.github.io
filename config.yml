@@ -3,6 +3,7 @@ title: "tamtamhihi's blog"
 icon: "/static/logo32.png"
 paginate: 5
 theme: PaperMod
+publishDir: docs
 
 enableRobotsTXT: true
 buildDrafts: false
