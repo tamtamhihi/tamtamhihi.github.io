@@ -1,0 +1,91 @@
+baseURL: "https://tamtamhihi.github.io/"
+title: "tamtamhihi's blog"
+icon: "/static/logo32.png"
+paginate: 5
+theme: PaperMod
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+enableEmoji: true
+
+params:
+  title: tamtamhihi
+  keywords: [Blog]
+  author: tamtamhihi
+  images: []
+  defaultTheme: auto
+  disableThemeToggle: false
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowWordCount: false
+  ShowRssButtonInSectionTermList: true
+  UseHugoToc: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: true
+  hidemeta: false
+  hideSummary: false
+  showtoc: false
+  tocopen: false
+  
+  assets:
+    favicon: "/logo.png"
+    favicon16x16: "/logo16.png"
+    favicon32x32: "/logo32.png"
+
+  profileMode:
+    enabled: false
+        
+  homeInfoParams:
+    Title: "![tamtamhihi](/profile.jpg) tamtamhihi"
+    Content: >
+      **disclaimer**: this blog (mostly 😎) isn't about knowledge sharing; it's about experience sharing - so pretty much there's nothing "useful" here 🥺 just a lot of personal stuffs that I live, see and think about everyday.
+
+    
+  socialIcons:
+    - name: github
+      url: "https://github.com/tamtamhihi"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/tam-nguyen-3097a8190/"
+    - name: facebook
+      url: "https://facebook.com/misa.nguyen.378"
+    - name: email
+      url: "mailto:tam.ngocbang.nguyen@gmail.com"
+    - name: instagram
+      url: "https://instagram.com/tamtamhihi"
+  
+  cover:
+    hidden: false
+    hiddenInList: false
+    hiddenInSingle: false
+    
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: ["title", "permalink", "summary", "content"]
+
+pygmentsUseClasses: true
+
+markup:
+  highlight:
+    noClasses: false
