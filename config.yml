@@ -1,10 +1,20 @@
 baseURL: "https://tamtamhihi.github.io/"
 title: "tamtamhihi's blog"
-icon: "/static/logo32.png"
 paginate: 5
 theme: PaperMod
 publishDir: docs
 
+menu:
+  main:
+    - name: Archives
+      url: /archives/
+      weight: 10
+    - name: Search
+      url: /search/
+      weight: 5
+    - name: Tags
+      url: /tags/
+      weight: 5
 enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
@@ -23,10 +33,11 @@ outputs:
 enableEmoji: true
 
 params:
+  env: production
   title: tamtamhihi
+  description: "tamtamhihi's blog"
   keywords: [Blog]
   author: tamtamhihi
-  images: []
   defaultTheme: auto
   disableThemeToggle: false
   ShowReadingTime: true
@@ -36,14 +47,13 @@ params:
   ShowCodeCopyButtons: true
   ShowWordCount: false
   ShowRssButtonInSectionTermList: true
-  UseHugoToc: true
-  disableSpecial1stPost: false
+  useHugoToc: false
+  disableSpecial1stPost: true
   disableScrollToTop: false
   comments: true
-  hidemeta: false
   hideSummary: false
-  showtoc: false
-  tocopen: false
+  showtoc: true
+  tocopen: true
   
   assets:
     favicon: "/logo.png"
@@ -57,8 +67,6 @@ params:
     Title: "![tamtamhihi](/profile.jpg) tamtamhihi"
     Content: >
       **disclaimer**: this blog (mostly 😎) isn't about knowledge sharing; it's about experience sharing - so pretty much there's nothing "useful" here 🥺 just a lot of personal stuffs that I live, see and think about everyday.
-
-    
   socialIcons:
     - name: github
       url: "https://github.com/tamtamhihi"
@@ -73,8 +81,6 @@ params:
   
   cover:
     hidden: false
-    hiddenInList: false
-    hiddenInSingle: false
     
   fuseOpts:
     isCaseSensitive: false
@@ -84,7 +90,7 @@ params:
     threshold: 0.4
     minMatchCharLength: 0
     keys: ["title", "permalink", "summary", "content"]
-
+      
 pygmentsUseClasses: true
 
 markup:

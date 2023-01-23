@@ -1,20 +1,7 @@
 ---
-title: "Mình là người mắc nói"
+title: '"Mắc nói"'
 date: 2023-01-22
 tags: ["thoughts"]
-author: "tamtamhihi"
-showToc: true
-TocOpen: false
-draft: false
-comments: true
-disableShare: false
-disableHLJS: false
-searchHidden: false
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 cover:
     image: "/posts/first-blog.jpg"
 ---
@@ -35,10 +22,15 @@ Nghĩ lại thì đó là hệ quả của hiệu ứng cánh bướm, bắt đ�
 ![](/posts/first-blog-stonehenge.jpeg)
 *Điện thoại hư khi mình đang trên tàu rời khỏi Stonehenge. Tốn ~40 pounds để đi bus + mua vé vào Stonehenge mà xém nữa mất hết hình chụp ở đây, may là kịp gửi 2 tấm cho ba mẹ.*
 
-Tuy nhiên, vấn đề cộm cán ở đây là khi đi chơi, mình có thói quen chụp rất nhiều hình lắt nhắt, để khi xem lại sẽ nhớ ra hết từng ngóc ngách mình đã đi qua, ra hết những cảm xúc và trải nghiệm; và tất nhiên vì nó quá nhiều nên khi gửi cho ba mẹ hoặc đăng Facebook thì không thể đăng hết được. Cũng may là trí nhớ mình khá ổn nên mặc dù bây giờ không còn quá nhiều hình, nhưng mỗi khi nghĩ tới thì mình vẫn còn nhớ rất rõ từng chi tiết trong những chuyến đi ấy. (Giờ mình mới hiểu sao travel blogger có thể nhớ dai những chuyến đi của họ và viết thành cả cuốn sách như vậy)
+Tuy nhiên, vấn đề cộm cán ở đây là khi đi chơi, mình có thói quen chụp rất nhiều hình lắt nhắt, để khi xem lại sẽ nhớ ra hết từng ngóc ngách mình đã đi qua, ra hết những cảm xúc và trải nghiệm; và tất nhiên vì nó quá nhiều nên khi gửi cho ba mẹ hoặc đăng Facebook thì không thể đăng hết được.
+
+![](/posts/first-blog-lake-district.jpg)
+*Một trong cả trăm tấm mình chụp linh tinh lúc chinh phục Scafell Pike (cái anh áo xanh trong hình là bạn leo núi của mình, tên là Jonas). Chuyến đi này diễn ra trước khi hư điện thoại, nhưng hên là Jonas kêu điện thoại mình chụp đẹp quá, nhờ mình chụp cảnh dùm hoài, rồi kêu mình đăng lên Drive, nên giờ mới còn hình. (mình sẽ viết về chuyến đi bão táp này ở 1 blog khác :point_right: :point_left:)*
+
+Cũng may là trí nhớ mình khá ổn nên mặc dù bây giờ không còn quá nhiều hình, nhưng mỗi khi nghĩ tới thì mình vẫn còn nhớ rất rõ từng chi tiết trong những chuyến đi ấy. (Giờ mình mới hiểu sao travel blogger có thể nhớ dai những chuyến đi của họ và viết thành cả cuốn sách như vậy)
 
 ### Swap area
-Tuy nhiên, một người thầy tên N đã từng dặn cả lớp rằng: phải ghi chép bài, vì trí nhớ là thứ không đáng tin nhất khi bước vào phòng thi. Đúng vậy! Trí nhớ thì có hạn mà những trải nghiệm thú vị thì sẽ còn xuất hiện hoài. Vậy nên mình mới định viết ra những gì mình nhớ về những chuyến đi này vào blog, xem nó như một cái "swap area" để lưu trữ, khi nào mình cần thì có thể load lại ngay vào bộ nhớ.
+Tuy nhiên, một người thầy tên N đã từng dặn cả lớp rằng: phải ghi chép bài, vì trí nhớ là thứ không đáng tin nhất khi bước vào phòng thi. Đúng vậy! Trí nhớ thì có hạn mà những trải nghiệm thú vị thì sẽ còn xuất hiện hoài. Vậy nên mình mới định viết ra những gì mình nhớ về những chuyến đi này vào blog, xem nó như một cái "swap area" để lưu trữ những ký ức. Khi nào mình cần ôn lại kỷ niệm thì có thể load lại ngay vào bộ nhớ, bằng các giở cái blog này ra đọc vu vơ :joy:.
 
 ## Mình là người mắc nói
 
@@ -48,10 +40,10 @@ Từ hồi học tiểu học, mình đã bị giáo viên chủ nhiệm phê v�
 Lên cấp 2, mình còn bị mấy đứa trong lớp kêu là bà tám (joke nhạt từ tên Băng Tâm...). Nhưng thật sự thì trong lớp mình nói nhiều thiệt. Có một lần năm lớp 7 mình bị thầy Phong (người thầy cực kỳ nghiêm khắc của biết bao thế hệ học sinh TĐN) ghi vô sổ đầu bài cũng tội nói chuyện riêng... Xong cuối năm mặc dù điểm mình cũng trong top 5 hay sao đó nhưng vì bị ghi sổ đầu bài nên không được nhận thưởng gì đấy. Mình của lúc ấy lấy làm tự hào (nói chuyện mà điểm cao đồ) nên ra dẻ và đem "khoe" mẹ, bị mẹ chửi một tăng.
 
 ### It's all about "sự hợp gu"
-Kí ức tuổi thơ ấy là minh chứng cho sự "mắc nói" từ trong trứng của mình. Ấy vậy mà người nhà, họ hàng lại hay nói là mình càng lớn càng ít nói :smiley:. Kỳ thực mình không ít nói mà là mình chỉ nói nhiều khi mình gặp chủ đề hoặc gặp người mà mình thích nói. Nếu trúng chủ đề và đúng người, mình có thể nói thao thao bất tuyệt (nạn nhân thường phải nghe những lần luyên thuyên của mình chính là bồ mình... :kissing_heart:). Nói cách khác là phải "hợp gu" thì mới bà tám được. :laughing:
+Kí ức tuổi thơ ấy là minh chứng cho sự "mắc nói" từ trong trứng của mình. Ấy vậy mà người nhà, họ hàng lại hay nói là mình càng lớn càng ít nói :smiley:. Kỳ thực mình không ít nói mà là mình chỉ nói nhiều khi mình gặp chủ đề hoặc gặp người mà mình thích nói. Nếu trúng chủ đề và đúng người, mình có thể nói thao thao bất tuyệt (nạn nhân thường phải nghe những lần luyên thuyên của mình chính là bồ mình... :kissing_heart:).
 
 ![](/posts/first-blog.jpg)
-Đây là hình chụp với team ngày cuối đi làm, và fun fact là intern manager và peers của mình đều không có trong hình (vì work from home hôm đấy :joy:). Những teammates trong hình dù mình không trực tiếp làm việc cùng nhưng lại rất có cảm tình và nói chuyện rất hợp, chắc nói còn nhiều hơn là với intern manager nữa. Chắc mình hợp nói chuyện với người già... Cả ngày đi làm vui nhất là bữa trưa vừa ăn vừa tám rồi sau đó vào canteen "uống cafe" tám tiếp. :joy:
+Đây là hình chụp với team ngày cuối đi làm, và fun fact là intern manager và peers của mình đều không có trong hình (vì work from home hôm đấy :joy:). Những teammates trong hình dù mình không trực tiếp làm việc cùng nhưng lại rất có cảm tình và nói chuyện rất hợp gu, nói còn nhiều hơn là nói với intern manager nữa. Chắc mình hợp nói chuyện với người già... Cả ngày đi làm vui nhất là bữa trưa vừa ăn vừa tám rồi sau đó vào canteen "uống cafe" tám tiếp. :joy: Nói chung thì nếu đã hợp gu thì mình sẽ nói cực kỳ nhiều. :flushed:
 
 ### Broadcasting
 
