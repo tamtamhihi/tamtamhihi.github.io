@@ -19,13 +19,17 @@ Vậy thì lý do gì mà bây giờ siêng ngang? :smiley:
 
 Nghĩ lại thì đó là hệ quả của hiệu ứng cánh bướm, bắt đầu bằng việc lúc mới qua UK được vài ngày thì mình bị hết dung lượng Google Photos. Lẽ ra thì mình chỉ cần bỏ tiền mua dung lượng thêm để backup hình thì đã ổn (bây giờ thì mình đã mua rồi và nó cũng không quá mắc :sob:). Nhưng không! Lúc ấy mình đã đưa ra lựa chọn là **tắt** backup hình ảnh :cry: Điều này kéo dài suốt 6 tuần đầu của kì internship, trước khi bi kịch xảy ra. Lúc đang cầm điện thoại search thông tin thì cái điện thoại bị hư bất đắc kỳ tử, bụp một cái đen xì màn hình. Mình có tới Samsung store để sửa nhưng họ bảo điện thoại sản xuất ở Việt Nam nên không biết sửa, làm hại phải mua điện thoại mới :sob:. Mình cứ đinh ninh là lỏng pin, hư pin, nên mang điện thoại cũ về Việt Nam sửa là xong, bao hình ảnh mình chụp vẫn sẽ còn đó. Nhưng cuối cùng thì Samsung store ở Việt Nam cũng đành bó tay (họ bảo hư phần cứng :frowning:). Tất nhiên mình cũng không mất hết hình, vì có gửi khá nhiều hình cho ba mẹ, bồ, đăng story, đăng Facebook kha khá (sống ảo cũng có lợi :smiley:).
 
-![](/posts/first-blog-stonehenge.jpeg)
-*Điện thoại hư khi mình đang trên tàu rời khỏi Stonehenge. Tốn ~40 pounds để đi bus + mua vé vào Stonehenge mà xém nữa mất hết hình chụp ở đây, may là kịp gửi 2 tấm cho ba mẹ.*
+{{< figure
+	src="/posts/first-blog-stonehenge.jpeg"
+	align=center
+	caption=`Điện thoại hư khi mình đang trên tàu rời khỏi Stonehenge. Tốn ~40 pounds để đi bus + mua vé vào Stonehenge mà xém nữa mất hết hình chụp ở đây, may là kịp gửi 2 tấm cho ba mẹ.` >}}
 
 Tuy nhiên, vấn đề cộm cán ở đây là khi đi chơi, mình có thói quen chụp rất nhiều hình lắt nhắt, để khi xem lại sẽ nhớ ra hết từng ngóc ngách mình đã đi qua, ra hết những cảm xúc và trải nghiệm; và tất nhiên vì nó quá nhiều nên khi gửi cho ba mẹ hoặc đăng Facebook thì không thể đăng hết được.
 
-![](/posts/first-blog-lake-district.jpg)
-*Một trong cả trăm tấm mình chụp linh tinh lúc chinh phục Scafell Pike (cái anh áo xanh trong hình là bạn leo núi của mình, tên là Jonas). Chuyến đi này diễn ra trước khi hư điện thoại, nhưng hên là Jonas kêu điện thoại mình chụp đẹp quá, nhờ mình chụp cảnh dùm hoài, rồi kêu mình đăng lên Drive, nên giờ mới còn hình. (mình sẽ viết về chuyến đi bão táp này ở 1 blog khác :point_right: :point_left:)*
+{{< figure
+	src="/posts/first-blog-lake-district.jpg"
+	align=center
+	caption=`Một trong cả trăm tấm mình chụp linh tinh lúc chinh phục Scafell Pike (cái anh áo xanh trong hình là bạn leo núi của mình, tên là Jonas). Chuyến đi này diễn ra trước khi hư điện thoại, nhưng hên là Jonas kêu điện thoại mình chụp đẹp quá, nhờ mình chụp cảnh dùm hoài, rồi kêu mình đăng lên Drive, nên giờ mới còn hình. (mình sẽ viết về chuyến đi bão táp này ở 1 blog khác :point_right: :point_left:)` >}}
 
 Cũng may là trí nhớ mình khá ổn nên mặc dù bây giờ không còn quá nhiều hình, nhưng mỗi khi nghĩ tới thì mình vẫn còn nhớ rất rõ từng chi tiết trong những chuyến đi ấy. (Giờ mình mới hiểu sao travel blogger có thể nhớ dai những chuyến đi của họ và viết thành cả cuốn sách như vậy)
 

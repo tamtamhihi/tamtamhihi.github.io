@@ -1,0 +1,21 @@
+{{ $color := .Get 0 | safeCSS }}
+{{ $text := .Get 1 | safeCSS }}
+{{ $text_color := .Get 2 | safeCSS }}
+<span style="
+    background-color: {{ $color }}; 
+    padding: 2px 4px; 
+    margin: 1px; 
+    border-radius: 2px;
+    font-size: 95%;
+    "> 
+{{ if $text_color }}
+  <span style="color: {{ $text_color }};"> {{ $text }} </span>
+{{ else }}
+  <span style="
+      color: {{ $color }};
+      filter: brightness(100) grayscale(1) invert(1) contrast(100);
+      ">
+      {{ $text }}       
+  </span>
+{{ end }}
+</span>
