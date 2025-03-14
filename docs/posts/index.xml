@@ -13,18 +13,9 @@
       <link>https://tamtamhihi.github.io/posts/random-cpp-story-1/</link>
       <pubDate>Fri, 14 Mar 2025 00:00:00 +0000</pubDate>
       <guid>https://tamtamhihi.github.io/posts/random-cpp-story-1/</guid>
-      <description>&lt;p&gt;Hai câu chuyện thú vị nho nhỏ mà mình vừa gặp liên quan đến mutex/lock và CPP nên ghi lại để mắc công quên.&lt;/p&gt;
+      <description>&lt;p&gt;Hai câu chuyện thú dị nho nhỏ mà mình vừa gặp liên quan đến mutex/lock và CPP nên ghi lại để mắc công quên.&lt;/p&gt;
 &lt;h2 id=&#34;deadlock&#34;&gt;Deadlock&lt;/h2&gt;
-&lt;p&gt;Chuyện là trong công việc thì ngoài focus vào project chính, thỉnh thoảng mọi người cũng hay commit những cái small changes để clean up hoặc improve codebase. Mới vài ngày trước thì đồng nghiệp mình có push một cái commit clean up như sau.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Đi tube ở London (Kỳ 2)</title>
-      <link>https://tamtamhihi.github.io/posts/di-tube-o-london-2/</link>
-      <pubDate>Tue, 31 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://tamtamhihi.github.io/posts/di-tube-o-london-2/</guid>
-      <description>&lt;p&gt;Tiếp nối câu chuyện về London tube thì kỳ này (thiệt ra kỳ cuối) mình sẽ chia sẻ những câu chuyện personal hơn liên quan tới tube.&lt;/p&gt;
-&lt;h2 id=&#34;commute-như-londoner&#34;&gt;Commute như Londoner&lt;/h2&gt;
-&lt;p&gt;Mình cảm thấy khá may mắn vì được đi internship ở thành phố lớn và nhịp sống vội vã như London, vì có cơ hội được trải nghiệm cảm giác dùng tube đi làm mỗi ngày như Londoner, dù quả thực thì trải nghiệm này nó không mấy pleasant &amp;#x1f605;. Sáng dậy là chen chúc vào cái ống, mất cả 50 phút để tới chỗ làm; chiều tối lại mất thêm 50 phút để quay về nhà.&lt;/p&gt;</description>
+&lt;p&gt;Chuyện là trong công việc thì ngoài làm project chính, thỉnh thoảng mọi người cũng hay commit những cái thay đổi nho nhỏ để clean up hoặc improve codebase. Mới vài ngày trước thì đồng nghiệp mình có push một cái commit clean up như sau.&lt;/p&gt;</description>
     </item>
     <item>
       <title>&#34;Mắc nói&#34;</title>
