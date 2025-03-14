@@ -3,6 +3,7 @@
   src: url('/fonts/Itim-Regular.ttf');
 }
 
-* {
+body {
   font-family: itim;
+  font-weight: 300;
 }
