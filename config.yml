@@ -13,9 +13,9 @@ menu:
     - name: Search
       url: /search/
       weight: 5
-#    - name: Tags
-#      url: /tags/
-#      weight: 5
+    - name: Tags
+      url: /tags/
+      weight: 5
 enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
@@ -65,7 +65,7 @@ params:
     enabled: false
         
   homeInfoParams:
-    Title: "![tamtamhihi](https://scontent-lhr6-2.xx.fbcdn.net/v/t39.30808-6/472210761_8921474947966366_1529229283651941521_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=833d8c&_nc_ohc=zO-nUkDfp7cQ7kNvgEppMUX&_nc_oc=Adh2ENgG51rqW8bxnWl52Dh33ePpm8Xchchh0mKU30v335wsTxb5GtxzwSWFs-n6VFk&_nc_zt=23&_nc_ht=scontent-lhr6-2.xx&_nc_gid=S1tcKVkTH1xS0lCz2EOKuA&oh=00_AYH-LkJsM8YSOF6wUX3mcEMLhddMdzFkHn_NHqU_PQ5amA&oe=67DA9D17) tamtamhihi"
+    Title: "![tamtamhihi](https://scontent-lhr6-2.xx.fbcdn.net/v/t39.30808-6/472210761_8921474947966366_1529229283651941521_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=833d8c&_nc_ohc=zO-nUkDfp7cQ7kNvgEppMUX&_nc_oc=Adh2ENgG51rqW8bxnWl52Dh33ePpm8Xchchh0mKU30v335wsTxb5GtxzwSWFs-n6VFk&_nc_zt=23&_nc_ht=scontent-lhr6-2.xx&_nc_gid=S1tcKVkTH1xS0lCz2EOKuA&oh=00_AYH-LkJsM8YSOF6wUX3mcEMLhddMdzFkHn_NHqU_PQ5amA&oe=67DA9D17 =120x160) tamtamhihi"
     Content: >
       just a lot of personal stuffs that I live, see and think about everyday.
   socialIcons:
