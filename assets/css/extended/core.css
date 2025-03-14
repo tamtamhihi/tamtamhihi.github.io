@@ -7,4 +7,6 @@ body {
   font-family: itim;
 }
 
-
+.post-content {
+  color: var(--secondary);
+}
