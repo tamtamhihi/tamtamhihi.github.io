@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>london on tamtamhihi&#39;s blog</title>
     <link>https://tamtamhihi.github.io/tags/london/</link>
     <description>Recent content in london on tamtamhihi&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
     <lastBuildDate>Tue, 31 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://tamtamhihi.github.io/tags/london/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Đi tube ở London (Kỳ 2)</title>
