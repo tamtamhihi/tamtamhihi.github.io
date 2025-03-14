@@ -67,7 +67,7 @@ params:
   homeInfoParams:
     Title: "![tamtamhihi](/profile.jpg) tamtamhihi"
     Content: >
-      **disclaimer**: just a lot of personal stuffs that I live, see and think about everyday.
+      just a lot of personal stuffs that I live, see and think about everyday.
   socialIcons:
     - name: github
       url: "https://github.com/tamtamhihi"

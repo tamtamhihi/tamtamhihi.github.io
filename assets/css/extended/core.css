@@ -6,4 +6,5 @@
 body {
   font-family: itim;
   font-weight: 300;
+  color: var(--secondary);
 }
