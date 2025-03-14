@@ -67,7 +67,7 @@ params:
   homeInfoParams:
     Title: "![tamtamhihi](/profile.jpg) tamtamhihi"
     Content: >
-      **disclaimer**: this blog (mostly 😎) isn't about knowledge sharing; it's about experience sharing - so pretty much there's nothing "useful" here 🥺 just a lot of personal stuffs that I live, see and think about everyday.
+      **disclaimer**: just a lot of personal stuffs that I live, see and think about everyday.
   socialIcons:
     - name: github
       url: "https://github.com/tamtamhihi"
