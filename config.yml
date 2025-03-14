@@ -1,6 +1,7 @@
 baseURL: "https://tamtamhihi.github.io/"
 title: "tamtamhihi's blog"
-paginate: 5
+pagination:
+  pagerSize: 5
 theme: PaperMod
 publishDir: docs
 

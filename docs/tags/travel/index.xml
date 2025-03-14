@@ -1,30 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>travel on tamtamhihi&#39;s blog</title>
+    <title>Travel on tamtamhihi&#39;s blog</title>
     <link>https://tamtamhihi.github.io/tags/travel/</link>
-    <description>Recent content in travel on tamtamhihi&#39;s blog</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Travel on tamtamhihi&#39;s blog</description>
+    <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 31 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://tamtamhihi.github.io/tags/travel/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 31 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://tamtamhihi.github.io/tags/travel/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Đi tube ở London (Kỳ 2)</title>
       <link>https://tamtamhihi.github.io/posts/di-tube-o-london-2/</link>
       <pubDate>Tue, 31 Jan 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://tamtamhihi.github.io/posts/di-tube-o-london-2/</guid>
-      <description>Tiếp nối câu chuyện về London tube thì kỳ này (thiệt ra kỳ cuối) mình sẽ chia sẻ những câu chuyện personal hơn liên quan tới tube.
-Commute như Londoner Mình cảm thấy khá may mắn vì được đi internship ở thành phố lớn và nhịp sống vội vã như London, vì có cơ hội được trải nghiệm cảm giác dùng tube đi làm mỗi ngày như Londoner, dù quả thực thì trải nghiệm này nó không mấy pleasant 😅.</description>
+      <description>&lt;p&gt;Tiếp nối câu chuyện về London tube thì kỳ này (thiệt ra kỳ cuối) mình sẽ chia sẻ những câu chuyện personal hơn liên quan tới tube.&lt;/p&gt;
+&lt;h2 id=&#34;commute-như-londoner&#34;&gt;Commute như Londoner&lt;/h2&gt;
+&lt;p&gt;Mình cảm thấy khá may mắn vì được đi internship ở thành phố lớn và nhịp sống vội vã như London, vì có cơ hội được trải nghiệm cảm giác dùng tube đi làm mỗi ngày như Londoner, dù quả thực thì trải nghiệm này nó không mấy pleasant &amp;#x1f605;. Sáng dậy là chen chúc vào cái ống, mất cả 50 phút để tới chỗ làm; chiều tối lại mất thêm 50 phút để quay về nhà.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Đi tube ở London (Kỳ 1)</title>
       <link>https://tamtamhihi.github.io/posts/di-tube-o-london/</link>
       <pubDate>Sat, 28 Jan 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://tamtamhihi.github.io/posts/di-tube-o-london/</guid>
-      <description>Khi di chuyển ở London, nhất là khu trung tâm, gần như 90% thời gian là phải sử dụng tube (i.e tàu điện ngầm, đôi lúc không ngầm). Tất nhiên ngoài tube thì đi bus cũng được nhưng mà nhược điểm là quá chậm, chắc mất gấp đôi thời gian 😂. Mình chỉ dùng bus nếu cuối tuần đi chơi vòng vòng London (nhằm đi tới những ngóc ngách hơi xa trạm tube) hoặc khi về quá muộn (tube nghỉ), còn lại thì tube vẫn là phương tiện chính không thể thiếu.</description>
+      <description>&lt;p&gt;Khi di chuyển ở London, nhất là khu trung tâm, gần như 90% thời gian là phải sử dụng tube (i.e tàu điện ngầm, đôi lúc không ngầm). Tất nhiên ngoài tube thì đi bus cũng được nhưng mà nhược điểm là quá chậm, chắc mất gấp đôi thời gian &amp;#x1f602;. Mình chỉ dùng bus nếu cuối tuần đi chơi vòng vòng London (nhằm đi tới những ngóc ngách hơi xa trạm tube) hoặc khi về quá muộn (tube nghỉ), còn lại thì tube vẫn là phương tiện chính không thể thiếu. Chính vì đi tube nhiều như vậy nên mình đã có kha khá kỉ niệm thú dị mà mình sẽ moi (hi vọng) hết ra kể trong blog này.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

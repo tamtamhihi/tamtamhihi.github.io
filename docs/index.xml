@@ -1,77 +1,53 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>tamtamhihi&#39;s blog</title>
     <link>https://tamtamhihi.github.io/</link>
     <description>Recent content on tamtamhihi&#39;s blog</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 14 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://tamtamhihi.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 14 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://tamtamhihi.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Random CPP story #1</title>
       <link>https://tamtamhihi.github.io/posts/random-cpp-story-1/</link>
       <pubDate>Fri, 14 Mar 2025 00:00:00 +0000</pubDate>
-      
       <guid>https://tamtamhihi.github.io/posts/random-cpp-story-1/</guid>
-      <description>Hai câu chuyện thú vị nho nhỏ mà mình vừa gặp liên quan đến mutex/lock và CPP nên ghi lại để mắc công quên.
-Deadlock Chuyện là trong công việc thì ngoài focus vào project chính, thỉnh thoảng mọi người cũng hay commit những cái small changes để clean up hoặc improve codebase. Mới vài ngày trước thì đồng nghiệp mình có push một cái commit clean up như sau.</description>
+      <description>&lt;p&gt;Hai câu chuyện thú vị nho nhỏ mà mình vừa gặp liên quan đến mutex/lock và CPP nên ghi lại để mắc công quên.&lt;/p&gt;
+&lt;h2 id=&#34;deadlock&#34;&gt;Deadlock&lt;/h2&gt;
+&lt;p&gt;Chuyện là trong công việc thì ngoài focus vào project chính, thỉnh thoảng mọi người cũng hay commit những cái small changes để clean up hoặc improve codebase. Mới vài ngày trước thì đồng nghiệp mình có push một cái commit clean up như sau.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Đi tube ở London (Kỳ 2)</title>
       <link>https://tamtamhihi.github.io/posts/di-tube-o-london-2/</link>
       <pubDate>Tue, 31 Jan 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://tamtamhihi.github.io/posts/di-tube-o-london-2/</guid>
-      <description>Tiếp nối câu chuyện về London tube thì kỳ này (thiệt ra kỳ cuối) mình sẽ chia sẻ những câu chuyện personal hơn liên quan tới tube.
-Commute như Londoner Mình cảm thấy khá may mắn vì được đi internship ở thành phố lớn và nhịp sống vội vã như London, vì có cơ hội được trải nghiệm cảm giác dùng tube đi làm mỗi ngày như Londoner, dù quả thực thì trải nghiệm này nó không mấy pleasant 😅.</description>
+      <description>&lt;p&gt;Tiếp nối câu chuyện về London tube thì kỳ này (thiệt ra kỳ cuối) mình sẽ chia sẻ những câu chuyện personal hơn liên quan tới tube.&lt;/p&gt;
+&lt;h2 id=&#34;commute-như-londoner&#34;&gt;Commute như Londoner&lt;/h2&gt;
+&lt;p&gt;Mình cảm thấy khá may mắn vì được đi internship ở thành phố lớn và nhịp sống vội vã như London, vì có cơ hội được trải nghiệm cảm giác dùng tube đi làm mỗi ngày như Londoner, dù quả thực thì trải nghiệm này nó không mấy pleasant &amp;#x1f605;. Sáng dậy là chen chúc vào cái ống, mất cả 50 phút để tới chỗ làm; chiều tối lại mất thêm 50 phút để quay về nhà.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Đi tube ở London (Kỳ 1)</title>
       <link>https://tamtamhihi.github.io/posts/di-tube-o-london/</link>
       <pubDate>Sat, 28 Jan 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://tamtamhihi.github.io/posts/di-tube-o-london/</guid>
-      <description>Khi di chuyển ở London, nhất là khu trung tâm, gần như 90% thời gian là phải sử dụng tube (i.e tàu điện ngầm, đôi lúc không ngầm). Tất nhiên ngoài tube thì đi bus cũng được nhưng mà nhược điểm là quá chậm, chắc mất gấp đôi thời gian 😂. Mình chỉ dùng bus nếu cuối tuần đi chơi vòng vòng London (nhằm đi tới những ngóc ngách hơi xa trạm tube) hoặc khi về quá muộn (tube nghỉ), còn lại thì tube vẫn là phương tiện chính không thể thiếu.</description>
+      <description>&lt;p&gt;Khi di chuyển ở London, nhất là khu trung tâm, gần như 90% thời gian là phải sử dụng tube (i.e tàu điện ngầm, đôi lúc không ngầm). Tất nhiên ngoài tube thì đi bus cũng được nhưng mà nhược điểm là quá chậm, chắc mất gấp đôi thời gian &amp;#x1f602;. Mình chỉ dùng bus nếu cuối tuần đi chơi vòng vòng London (nhằm đi tới những ngóc ngách hơi xa trạm tube) hoặc khi về quá muộn (tube nghỉ), còn lại thì tube vẫn là phương tiện chính không thể thiếu. Chính vì đi tube nhiều như vậy nên mình đã có kha khá kỉ niệm thú dị mà mình sẽ moi (hi vọng) hết ra kể trong blog này.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>&#34;Mắc nói&#34;</title>
       <link>https://tamtamhihi.github.io/posts/mac-noi/</link>
       <pubDate>Sun, 22 Jan 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://tamtamhihi.github.io/posts/mac-noi/</guid>
-      <description>Vì là bài blog đầu tiên nên mình sẽ giải thích lý do vì sao lại có trang blog này. 😎 Disclaimer là bài viết có thể sẽ hơi nhamnhi đối với một số người. 👉 👈
-Chuyện bên lề Thực tế thì mình đã muốn lập một trang blog từ rất lâu rồi (chắc phải từ lớp 10). Ban đầu là vì mới đọc xong mấy quyển sách hay nên mình muốn viết review.</description>
+      <description>&lt;p&gt;Vì là bài blog đầu tiên nên mình sẽ giải thích lý do vì sao lại có trang blog này. &amp;#x1f60e; Disclaimer là bài viết có thể sẽ hơi nhamnhi đối với một số người. &amp;#x1f449; &amp;#x1f448;&lt;/p&gt;
+&lt;h2 id=&#34;chuyện-bên-lề&#34;&gt;Chuyện bên lề&lt;/h2&gt;
+&lt;p&gt;Thực tế thì mình đã muốn lập một trang blog từ rất lâu rồi (chắc phải từ lớp 10). Ban đầu là vì mới đọc xong mấy quyển sách hay nên mình muốn viết review. Sau đó thì có dịp đi xem nhạc kịch Con Dơi ở Nhà hát Thành phố nên cũng muốn viết bình luận các kiểu. Hồi đó thì mình định làm web bằng wixsite vì nó free, dễ dùng mà còn được tự trang trí web nữa. Nhưng rồi vì lười, bận đi uống trà sữa, bận làm khùng làm điên, v.v.. mà rốt cuộc cái blog review đầy nghệ thuật ấy đã không bao giờ xuất hiện.&lt;/p&gt;</description>
     </item>
-    
-    <item>
-      <title>Archives</title>
-      <link>https://tamtamhihi.github.io/archives/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://tamtamhihi.github.io/archives/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Search</title>
-      <link>https://tamtamhihi.github.io/search/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://tamtamhihi.github.io/search/</guid>
-      <description></description>
-    </item>
-    
     <item>
       <title>Tags</title>
       <link>https://tamtamhihi.github.io/tags/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://tamtamhihi.github.io/tags/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>
