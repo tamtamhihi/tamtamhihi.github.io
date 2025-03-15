@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Cpp on tamtamhihi&#39;s blog</title>
+    <link>https://tamtamhihi.github.io/categories/cpp/</link>
+    <description>Recent content in Cpp on tamtamhihi&#39;s blog</description>
+    <generator>Hugo -- 0.128.0</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 14 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://tamtamhihi.github.io/categories/cpp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Random CPP story #1</title>
+      <link>https://tamtamhihi.github.io/posts/random-cpp-story-1/</link>
+      <pubDate>Fri, 14 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://tamtamhihi.github.io/posts/random-cpp-story-1/</guid>
+      <description>Hai câu chuyện thú dị nho nhỏ mà mình vừa gặp liên quan đến mutex/lock và CPP nên ghi lại để mắc công quên.
+Deadlock Chuyện là trong công việc thì ngoài làm project chính, thỉnh thoảng mọi người cũng hay commit những cái thay đổi nho nhỏ để clean up hoặc improve codebase. Mới vài ngày trước thì đồng nghiệp mình có push một cái commit clean up như sau.</description>
+    </item>
+  </channel>
+</rss>
