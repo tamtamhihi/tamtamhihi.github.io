@@ -4,7 +4,7 @@
     <title>Posts on tamtamhihi&#39;s blog</title>
     <link>https://tamtamhihi.github.io/posts/</link>
     <description>Recent content in Posts on tamtamhihi&#39;s blog</description>
-    <generator>Hugo -- 0.145.0</generator>
+    <generator>Hugo -- 0.128.0</generator>
     <language>en</language>
     <lastBuildDate>Fri, 14 Mar 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://tamtamhihi.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
@@ -13,18 +13,16 @@
       <link>https://tamtamhihi.github.io/posts/random-cpp-story-1/</link>
       <pubDate>Fri, 14 Mar 2025 00:00:00 +0000</pubDate>
       <guid>https://tamtamhihi.github.io/posts/random-cpp-story-1/</guid>
-      <description>&lt;p&gt;Hai câu chuyện thú dị nho nhỏ mà mình vừa gặp liên quan đến mutex/lock và CPP nên ghi lại để mắc công quên.&lt;/p&gt;
-&lt;h2 id=&#34;deadlock&#34;&gt;Deadlock&lt;/h2&gt;
-&lt;p&gt;Chuyện là trong công việc thì ngoài làm project chính, thỉnh thoảng mọi người cũng hay commit những cái thay đổi nho nhỏ để clean up hoặc improve codebase. Mới vài ngày trước thì đồng nghiệp mình có push một cái commit clean up như sau.&lt;/p&gt;</description>
+      <description>Hai câu chuyện thú dị nho nhỏ mà mình vừa gặp liên quan đến mutex/lock và CPP nên ghi lại để mắc công quên.
+Deadlock Chuyện là trong công việc thì ngoài làm project chính, thỉnh thoảng mọi người cũng hay commit những cái thay đổi nho nhỏ để clean up hoặc improve codebase. Mới vài ngày trước thì đồng nghiệp mình có push một cái commit clean up như sau.</description>
     </item>
     <item>
       <title>&#34;Mắc nói&#34;</title>
       <link>https://tamtamhihi.github.io/posts/mac-noi/</link>
       <pubDate>Sun, 22 Jan 2023 00:00:00 +0000</pubDate>
       <guid>https://tamtamhihi.github.io/posts/mac-noi/</guid>
-      <description>&lt;p&gt;Vì là bài blog đầu tiên nên mình sẽ giải thích lý do vì sao lại có trang blog này. &amp;#x1f60e; Disclaimer là bài viết có thể sẽ hơi nhamnhi đối với một số người. &amp;#x1f449; &amp;#x1f448;&lt;/p&gt;
-&lt;h2 id=&#34;chuyện-bên-lề&#34;&gt;Chuyện bên lề&lt;/h2&gt;
-&lt;p&gt;Thực tế thì mình đã muốn lập một trang blog từ rất lâu rồi (chắc phải từ lớp 10). Ban đầu là vì mới đọc xong mấy quyển sách hay nên mình muốn viết review. Sau đó thì có dịp đi xem nhạc kịch Con Dơi ở Nhà hát Thành phố nên cũng muốn viết bình luận các kiểu. Hồi đó thì mình định làm web bằng wixsite vì nó free, dễ dùng mà còn được tự trang trí web nữa. Nhưng rồi vì lười, bận đi uống trà sữa, bận làm khùng làm điên, v.v.. mà rốt cuộc cái blog review đầy nghệ thuật ấy đã không bao giờ xuất hiện.&lt;/p&gt;</description>
+      <description>Vì là bài blog đầu tiên nên mình sẽ giải thích lý do vì sao lại có trang blog này. &amp;#x1f60e; Disclaimer là bài viết có thể sẽ hơi nhamnhi đối với một số người. &amp;#x1f449; &amp;#x1f448;
+Chuyện bên lề Thực tế thì mình đã muốn lập một trang blog từ rất lâu rồi (chắc phải từ lớp 10). Ban đầu là vì mới đọc xong mấy quyển sách hay nên mình muốn viết review.</description>
     </item>
   </channel>
 </rss>
