@@ -1,7 +1,7 @@
 ---
 title: '"Mắc nói"'
 date: 2023-01-22
-tags: ["thoughts"]
+tags: [thoughts]
 cover:
     image: "/posts/first-blog.jpg"
 ---

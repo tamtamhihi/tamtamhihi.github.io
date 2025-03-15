@@ -1,7 +1,7 @@
 ---
 title: "Đi tube ở London (Kỳ 1)"
 date: 2023-01-28
-tags: ["uk", "london", "travel", "experience"]
+tags: []
 draft: true
 cover:
     image: "/posts/tube.jpg"
