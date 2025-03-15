@@ -2,13 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://tamtamhihi.github.io/categories/</loc>
-    <lastmod>2025-03-14T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://tamtamhihi.github.io/tags/cpp/</loc>
-    <lastmod>2025-03-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tamtamhihi.github.io/categories/cpp/</loc>
     <lastmod>2025-03-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://tamtamhihi.github.io/posts/</loc>
@@ -29,13 +23,10 @@
     <loc>https://tamtamhihi.github.io/tags/thoughts/</loc>
     <lastmod>2023-01-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://tamtamhihi.github.io/categories/thoughts/</loc>
-    <lastmod>2023-01-22T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://tamtamhihi.github.io/archives/</loc>
   </url><url>
-    <loc>https://tamtamhihi.github.io/search/</loc>
+    <loc>https://tamtamhihi.github.io/categories/</loc>
   </url><url>
-    <loc>https://tamtamhihi.github.io/tagss/</loc>
+    <loc>https://tamtamhihi.github.io/search/</loc>
   </url>
 </urlset>

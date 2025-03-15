@@ -2,7 +2,6 @@
 title: 'Random CPP story #1'
 date: 2025-03-14
 tags: [cpp]
-categories: ["cpp"]
 ---
 
 Hai câu chuyện thú dị nho nhỏ mà mình vừa gặp liên quan đến mutex/lock và CPP nên ghi lại để mắc công quên.
