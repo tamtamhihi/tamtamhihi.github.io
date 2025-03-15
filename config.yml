@@ -55,6 +55,7 @@ params:
   hideSummary: false
   showtoc: true
   tocopen: true
+  comments: true
   
   assets:
     favicon: "/logo.png"
