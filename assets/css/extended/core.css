@@ -9,4 +9,9 @@ body {
 
 .post-content {
   color: var(--secondary);
+  opacity: 0.95;
+}
+
+figure figcaption {
+  text-align: center;
 }

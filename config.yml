@@ -33,6 +33,10 @@ outputs:
 
 enableEmoji: true
 
+services:
+  disqus:
+    shortname: tam_ngoc_bang_nguyen
+
 params:
   env: production
   title: tamtamhihi
@@ -56,7 +60,7 @@ params:
   showtoc: true
   tocopen: true
   comments: true
-  
+
   assets:
     favicon: "/logo.png"
     favicon16x16: "/logo16.png"
@@ -64,7 +68,7 @@ params:
 
   profileMode:
     enabled: false
-        
+
   homeInfoParams:
     Title: >
       {{< figure src="https://scontent-lhr6-2.xx.fbcdn.net/v/t39.30808-6/472210761_8921474947966366_1529229283651941521_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=833d8c&_nc_ohc=zO-nUkDfp7cQ7kNvgEppMUX&_nc_oc=Adh2ENgG51rqW8bxnWl52Dh33ePpm8Xchchh0mKU30v335wsTxb5GtxzwSWFs-n6VFk&_nc_zt=23&_nc_ht=scontent-lhr6-2.xx&_nc_gid=S1tcKVkTH1xS0lCz2EOKuA&oh=00_AYH-LkJsM8YSOF6wUX3mcEMLhddMdzFkHn_NHqU_PQ5amA&oe=67DA9D17" width="240" height="320" >}} tamtamhihi
@@ -81,10 +85,10 @@ params:
       url: "mailto:tam.ngocbang.nguyen@gmail.com"
     - name: instagram
       url: "https://instagram.com/tamtamhihi"
-  
+
   cover:
     hidden: false
-    
+
   fuseOpts:
     isCaseSensitive: false
     shouldSort: true
@@ -93,7 +97,7 @@ params:
     threshold: 0.4
     minMatchCharLength: 0
     keys: ["title", "permalink", "summary", "content"]
-      
+
 pygmentsUseClasses: true
 
 markup:
