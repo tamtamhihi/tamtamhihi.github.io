@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Thoughts on tamtamhihi&#39;s blog</title>
-    <link>http://localhost:1313/tags/thoughts/</link>
+    <link>https://tamtamhihi.github.io/tags/thoughts/</link>
     <description>Recent content in Thoughts on tamtamhihi&#39;s blog</description>
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <lastBuildDate>Sun, 16 Mar 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/thoughts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tamtamhihi.github.io/tags/thoughts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Chuyến đi Đà Lạt đầu tiên</title>
-      <link>http://localhost:1313/posts/lan-dau-tien-di-da-lat/</link>
+      <link>https://tamtamhihi.github.io/posts/lan-dau-tien-di-da-lat/</link>
       <pubDate>Sun, 16 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/lan-dau-tien-di-da-lat/</guid>
+      <guid>https://tamtamhihi.github.io/posts/lan-dau-tien-di-da-lat/</guid>
       <description>&lt;p&gt;&lt;em&gt;Warning:&lt;/em&gt; wall of text (nhamnhi là đa số).&lt;/p&gt;
 &lt;p&gt;Tự dưng mình nhớ lại một chuyến đi rất (?) là xa, thời mà mình ít chụp hình hay đăng facebook. Hình trong bài này toàn là mình chôm chỉa từ nhiều nguồn.&lt;/p&gt;
 &lt;h3 id=&#34;bước-1-xin-mẹ&#34;&gt;Bước 1: xin mẹ&lt;/h3&gt;
@@ -20,9 +20,9 @@
     </item>
     <item>
       <title>&#34;Mắc nói&#34;</title>
-      <link>http://localhost:1313/posts/mac-noi/</link>
+      <link>https://tamtamhihi.github.io/posts/mac-noi/</link>
       <pubDate>Sun, 22 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/mac-noi/</guid>
+      <guid>https://tamtamhihi.github.io/posts/mac-noi/</guid>
       <description>&lt;p&gt;Vì là bài blog đầu tiên nên mình sẽ giải thích lý do vì sao lại có trang blog này. &amp;#x1f60e; Disclaimer là bài viết có thể sẽ hơi nhamnhi đối với một số người. &amp;#x1f449; &amp;#x1f448;&lt;/p&gt;
 &lt;h2 id=&#34;chuyện-bên-lề&#34;&gt;Chuyện bên lề&lt;/h2&gt;
 &lt;p&gt;Thực tế thì mình đã muốn lập một trang blog từ rất lâu rồi (chắc phải từ lớp 10). Ban đầu là vì mới đọc xong mấy quyển sách hay nên mình muốn viết review. Sau đó thì có dịp đi xem nhạc kịch Con Dơi ở Nhà hát Thành phố nên cũng muốn viết bình luận các kiểu. Hồi đó thì mình định làm web bằng wixsite vì nó free, dễ dùng mà còn được tự trang trí web nữa. Nhưng rồi vì lười, bận đi uống trà sữa, bận làm khùng làm điên, v.v.. mà rốt cuộc cái blog review đầy nghệ thuật ấy đã không bao giờ xuất hiện.&lt;/p&gt;</description>
