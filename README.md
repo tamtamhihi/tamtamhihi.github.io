@@ -14,3 +14,15 @@ To update submodule to latest version:
 ```
 git submodule update --remote --merge
 ```
+
+## Build
+
+To build the website locally (available at localhost:1313)
+```
+hugo server
+```
+
+Must do one final build before pushing to master (otherwise hyperlinks will be broken)
+```
+hugo
+```
