@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Knowledge on tamtamhihi&#39;s blog</title>
+    <link>http://localhost:1313/tags/knowledge/</link>
+    <description>Recent content in Knowledge on tamtamhihi&#39;s blog</description>
+    <generator>Hugo -- 0.145.0</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 22 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/knowledge/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tiếng Pháp vỡ lòng #1: Tu vs Vous</title>
+      <link>http://localhost:1313/posts/french-1-tu-vs-vous/</link>
+      <pubDate>Sat, 22 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/french-1-tu-vs-vous/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

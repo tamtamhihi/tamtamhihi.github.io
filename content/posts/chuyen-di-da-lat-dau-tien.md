@@ -1,9 +1,9 @@
 ---
 title: 'Chuyến đi Đà Lạt đầu tiên'
 date: 2025-03-16
-tags: ["thoughts", "travel"]
+tags: ["experience", "travel"]
 cover:
-  image: https://scontent-lhr8-2.xx.fbcdn.net/v/t39.30808-6/463876176_3342101555924603_8741714362662522726_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=cf85f3&_nc_ohc=eoOEeb0ktcoQ7kNvgEHorQ5&_nc_oc=Adj_zn1xdvIY2eofGWCIFwfWJdFpILVjpiibwKH6kuchLWDz-20MtSdw2NTzl6c90c4&_nc_zt=23&_nc_ht=scontent-lhr8-2.xx&_nc_gid=4l69PasfHwCPJEah_GGH9g&oh=00_AYHblCHwil2bvi3YHXdNf4Ck35z8lo7kLzTci-LZpyZu1g&oe=67DCCA7E
+  image: "/posts/chuyen-di-da-lat-dau-tien/9.jpg"
 ---
 
 *Warning:* wall of text (nhamnhi là đa số).
@@ -32,40 +32,40 @@ Thật ra điều mình nhớ nhất về chuyến đi Đà Lạt ấy lại kh�
 {{< load-photoswipe >}}
 {{< gallery >}}
   {{< figure
-    src="https://scontent-lhr6-1.xx.fbcdn.net/v/t39.30808-6/463721995_3342081729259919_8003067996182818791_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=cf85f3&_nc_ohc=A1w72GVNhgMQ7kNvgG5aRwS&_nc_oc=AdhHOxUZ-_SR1gItGwfh-tsiHzNeK7etFgkEIyUfm9IwefIE5QBklx4nhDdh9bGBinc&_nc_zt=23&_nc_ht=scontent-lhr6-1.xx&_nc_gid=VQ5Q7yf0JESCfPFagorQYA&oh=00_AYEV_fjFg6iDsWxeRLCuH9wLUDPzBLGyHeOfwVPlYdGbIg&oe=67DB6DA6"
+    src="/posts/chuyen-di-da-lat-dau-tien/7.jpg"
     align=center
     caption=`Tập thể dục buổi sáng ở Dambri. Ai tìm được mình trong hình tặng 1 ly trà sữa.`
   >}}
   {{< figure
-    src="https://scontent-lhr8-1.xx.fbcdn.net/v/t39.30808-6/463983921_3342081745926584_4368751574372765215_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=cf85f3&_nc_ohc=ang4fEmMTMEQ7kNvgEL6L7i&_nc_oc=AdjH0KV6xrVGE0oBu6YmDpBEJADpQbhOZAPpo7u_Jx8K4-Y5aB15TGAgdCQFClT7kkE&_nc_zt=23&_nc_ht=scontent-lhr8-1.xx&_nc_gid=qm2w7_bLwg_0gUdDoXU1sA&oh=00_AYGkCRg5Caad_SPTXxLaVOi0TblEOlUCqWHzUFdz-mx4Lw&oe=67DB5F9B"
+    src="/posts/chuyen-di-da-lat-dau-tien/8.jpg"
     caption=`Chụp hình trước khi rời Dambri. Trước khi đi trại thầy có dặn mọi người tự chuẩn bị và trang trí mặt nạ (for some reason :v).`
   >}}
   {{< figure
-    src="https://scontent-lhr6-2.xx.fbcdn.net/v/t39.30808-6/464656033_8880952951944152_2425937105121714970_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=cf85f3&_nc_ohc=aDqGtJoQ_0wQ7kNvgHPJpvC&_nc_oc=AdhKKjiW1cd06sR_zjUuVlQVvlaNXbW0MjEDLv5DPRhMCyLKKgG8aPcjoRHx_qIwJXA&_nc_zt=23&_nc_ht=scontent-lhr6-2.xx&_nc_gid=oDBmBpZZO9z7W-QSYcsakw&oh=00_AYHZ-JSGOLcxaF33Ovyx7NyQHUqY03hc5TcRgWDi_0hKNw&oe=67DCD2EE"
+    src="/posts/chuyen-di-da-lat-dau-tien/1.jpg"
     caption=`Lần đầu đạp xe đạp đôi + chạy hết 1 vòng hồ. Đạp xong thở hơi lên.`
   >}}
   {{< figure
-    src="https://scontent-lhr8-1.xx.fbcdn.net/v/t39.30808-6/464508663_8880975941941853_2432735630570975042_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=cf85f3&_nc_ohc=O2wTP26y6FgQ7kNvgG0b3i-&_nc_oc=AdipOG7oBO-HVbiSzLZ7882R-gsP0qnI6LFFnXcweTxPzs5avab9BHvzm-UPhJfllnE&_nc_zt=23&_nc_ht=scontent-lhr8-1.xx&_nc_gid=3TH1HMFh-pi5iYc1jKezWQ&oh=00_AYH3wK5RNKhkgtunzJvnZipdcV_6gcNKg5KmufCtmtHHXw&oe=67DCC182"
+    src="/posts/chuyen-di-da-lat-dau-tien/4.jpg"
     caption=`Buổi tối ở Đoàn An điều dưỡng 198, chắc là đang tập văn nghệ.`
   >}}
   {{< figure
-    src="https://scontent-lhr6-2.xx.fbcdn.net/v/t39.30808-6/464737008_8880976911941756_5698018358716846310_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=cf85f3&_nc_ohc=xVnz6jW9_4IQ7kNvgEmOOBz&_nc_oc=AdjJoelz4MARlJgq4bv_sNtYR2xm0dBAhxM86WhbwR1MgucJS9WPSxMloKjnTObbHqg&_nc_zt=23&_nc_ht=scontent-lhr6-2.xx&_nc_gid=vilrTjZPCIJ2mPp50t3HXw&oh=00_AYE2Mqb-gXMaYjmsu2WVPrb9kyv5pHTWc0mjg2pJENHBbg&oe=67DCEDD4"
+    src="/posts/chuyen-di-da-lat-dau-tien/5.jpg"
     caption=`Trò chơi lớn ở Thung lũng vàng`
   >}}
   {{< figure
-    src="https://scontent-lhr8-2.xx.fbcdn.net/v/t39.30808-6/464605671_8881048905267890_3946968593163624409_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=cf85f3&_nc_ohc=siCW4njPUlAQ7kNvgFRDU_M&_nc_oc=AdhsheD6YSHUZJg-PTm0PAJzM66oBaJM7yho3drF2MDo6LR_iafikCxSINOMwZyh_gw&_nc_zt=23&_nc_ht=scontent-lhr8-2.xx&_nc_gid=6hCeXGioZ_qNxOfc7ObAMA&oh=00_AYEhAeRBmQI0QibnrnAYJCoX63T6__R1kP79jyPbL3pkJg&oe=67DCDAE2"
+    src="/posts/chuyen-di-da-lat-dau-tien/6.jpg"
     caption=`Đêm diễn văn nghệ, lúc này đang hát bài "Vì tôi là Dế" chế lại từ bài của Tiên Tiên :3`
   >}}
   {{< figure
-    src="https://scontent-lhr6-1.xx.fbcdn.net/v/t39.30808-6/464659530_8880975935275187_1574406974583497739_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=cf85f3&_nc_ohc=vMnKWb_yp-YQ7kNvgFgCT8Y&_nc_oc=Adj3HFGP02ryR08_tSuVBPYfCz7WeFoW2wDEVrTthJzB5IW2pu69yb-yL-TxTDm-ljs&_nc_zt=23&_nc_ht=scontent-lhr6-1.xx&_nc_gid=voXu_gIlzcrKQC1NHTS8MQ&oh=00_AYGdo0RDUnRvyi6_ur3idDMqROazEMp0622iEXS51PzP5w&oe=67DCC4A5"
+    src="/posts/chuyen-di-da-lat-dau-tien/3.jpg"
     caption=`Này là ở nhà thờ Domain, nhớ mãi lúc này thấy đối diện nhà thờ có bán bánh cá (lần đầu thấy món này trong cuộc đời) mà mua hong kịp.`
   >}}
   {{< figure
-    src="https://scontent-lhr8-2.xx.fbcdn.net/v/t39.30808-6/463876176_3342101555924603_8741714362662522726_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=cf85f3&_nc_ohc=eoOEeb0ktcoQ7kNvgEHorQ5&_nc_oc=Adj_zn1xdvIY2eofGWCIFwfWJdFpILVjpiibwKH6kuchLWDz-20MtSdw2NTzl6c90c4&_nc_zt=23&_nc_ht=scontent-lhr8-2.xx&_nc_gid=4l69PasfHwCPJEah_GGH9g&oh=00_AYHblCHwil2bvi3YHXdNf4Ck35z8lo7kLzTci-LZpyZu1g&oe=67DCCA7E"
+    src="/posts/chuyen-di-da-lat-dau-tien/9.jpg"
     caption=`Nhìn lại hồi này mình dễ thương quá ahihi`
   >}}
   {{< figure
-    src="https://scontent-lhr6-2.xx.fbcdn.net/v/t39.30808-6/464771838_8880974945275286_7882982058173198808_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=cf85f3&_nc_ohc=63enF0Vgep8Q7kNvgGrnKp5&_nc_oc=AdhX3WTq0ZSqHndE_tX2Ikhl__94YkgFK7yitw6TmDcjp6vB9rYStNmpKjWppDOeyxE&_nc_zt=23&_nc_ht=scontent-lhr6-2.xx&_nc_gid=8vfydJoKZDZrOtbTgoHW5A&oh=00_AYGHNr--HFX-GJCs39IS7ja97ysxkItUIK2A_xwlLmVyLA&oe=67DCDC4E"
+    src="/posts/chuyen-di-da-lat-dau-tien/2.jpg"
     caption=`Hình như lúc này là xe chuẩn bị về lại 40 MĐC. Thiệt chứ lúc này còn shy khủng khiếp, nên mấy anh chị kêu mấy bạn mới đi lần đầu phát biểu cảm nghĩ mà mình cũng im re :v`
   >}}
 {{< /gallery >}}

@@ -2,19 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://tamtamhihi.github.io/posts/lan-dau-tien-di-da-lat/</loc>
-    <lastmod>2025-03-16T00:00:00+00:00</lastmod>
+    <loc>https://tamtamhihi.github.io/tags/french/</loc>
+    <lastmod>2025-03-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tamtamhihi.github.io/tags/language/</loc>
+    <lastmod>2025-03-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://tamtamhihi.github.io/posts/</loc>
-    <lastmod>2025-03-16T00:00:00+00:00</lastmod>
+    <lastmod>2025-03-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://tamtamhihi.github.io/tags/</loc>
-    <lastmod>2025-03-16T00:00:00+00:00</lastmod>
+    <lastmod>2025-03-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://tamtamhihi.github.io/</loc>
+    <lastmod>2025-03-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tamtamhihi.github.io/posts/french-1-tu-vs-vous/</loc>
+    <lastmod>2025-03-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tamtamhihi.github.io/posts/chuyen-di-da-lat-dau-tien/</loc>
     <lastmod>2025-03-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://tamtamhihi.github.io/tags/thoughts/</loc>
+    <loc>https://tamtamhihi.github.io/tags/experience/</loc>
     <lastmod>2025-03-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://tamtamhihi.github.io/tags/travel/</loc>
@@ -26,7 +35,13 @@
     <loc>https://tamtamhihi.github.io/posts/random-cpp-story-1/</loc>
     <lastmod>2025-03-14T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://tamtamhihi.github.io/tags/tech/</loc>
+    <lastmod>2025-03-14T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://tamtamhihi.github.io/posts/mac-noi/</loc>
+    <lastmod>2023-01-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tamtamhihi.github.io/tags/thoughts/</loc>
     <lastmod>2023-01-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://tamtamhihi.github.io/archives/</loc>
