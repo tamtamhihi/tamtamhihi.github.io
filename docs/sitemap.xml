@@ -2,19 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://tamtamhihi.github.io/posts/</loc>
+    <lastmod>2025-03-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tamtamhihi.github.io/tags/</loc>
+    <lastmod>2025-03-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tamtamhihi.github.io/</loc>
+    <lastmod>2025-03-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tamtamhihi.github.io/tags/tbbt/</loc>
+    <lastmod>2025-03-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tamtamhihi.github.io/posts/tbbt-1-it-was-like-a-grapefruit/</loc>
+    <lastmod>2025-03-30T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://tamtamhihi.github.io/tags/french/</loc>
     <lastmod>2025-03-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://tamtamhihi.github.io/tags/language/</loc>
-    <lastmod>2025-03-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tamtamhihi.github.io/posts/</loc>
-    <lastmod>2025-03-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tamtamhihi.github.io/tags/</loc>
-    <lastmod>2025-03-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tamtamhihi.github.io/</loc>
     <lastmod>2025-03-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://tamtamhihi.github.io/posts/french-1-tu-vs-vous/</loc>
